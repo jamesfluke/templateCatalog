@@ -1,0 +1,5 @@
+version: 1
+type: pipleine-template-catalog
+
+name: jf-test-catalog
+desplayName: JF test catalog
