@@ -2,4 +2,4 @@ version: 1
 type: pipeline-template-catalog
 
 name: jf-test-catalog
-desplayName: JF test catalog
+displayName: JF test catalog
